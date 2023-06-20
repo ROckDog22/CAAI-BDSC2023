@@ -1,3 +1,8 @@
 datasets.zip
 datasets
 datasets/*
+__pycache__
+uie_nano_pytorch
+tpu-mlir_v1.0.337-g21c53796-20230515
+tpu-mlir_v1.0.337-g21c53796-20230515.tar.gz
+inference.onnx
